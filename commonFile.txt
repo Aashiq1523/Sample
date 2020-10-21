@@ -1,0 +1,3 @@
+This is common to both sample and sample2.
+
+created by sample.
