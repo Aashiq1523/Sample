@@ -5,3 +5,6 @@ by Sample
 This is another common file
 
 by Sample2
+
+
+This is my new Sentence
